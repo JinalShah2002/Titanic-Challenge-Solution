@@ -5,7 +5,7 @@ This is my very first End-to-End Machine Learning Project & my first Kaggle Comp
   
 You either download the data from the 'Data' folder inside the 'Titanic Challenge' folder or retrieve it from the [competition website](https://www.kaggle.com/c/titanic/overview)  
   
-My current model accuracy (or score on the submission set) is __77.99%__. 
+My current model accuracy (or score on the submission set) is __78.47%__. The best Submission Set is the __5th Submission Set__. The best model is the __5th Model__. 
   
 Finally, this repository should not be used for cheating purposes. The only way to get better at Machine Learning is to keep practicing!  
   
